@@ -2,7 +2,7 @@
 The repository contains algorith of calculation of PLL divers. Si5368 is used
 
 ## Description
-The Si5368 is a jitter-attenuating precision clock multiplier for applications requiring sub 1 ps rms jitter performance. The Si5368 is based on PLL. Buying Si5368 Evaluation Board you get one and some programs for adjusting the device. But it is only test programs and it is impissoble to use them on production. So you have to write your own programs. The most difficult task is divdiders calculation. That's why this repository is created.
+The Si5368 is a jitter-attenuating precision clock multiplier for applications requiring sub 1 ps rms jitter performance. The Si5368 is based on PLL. Buying Si5368 Evaluation Board you get one and some programs for adjusting the device. But it is only the test programs and it is impissoble to use them on production. So you have to write your own programs. The most difficult task is divdiders calculation. That's why this repository is created.
 
 ## Si5358 divers
 
