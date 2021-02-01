@@ -1,7 +1,7 @@
 def get_multiplier(fr_out: str, fr_in: str = '20000000', delta: float = 0.001, des_error: float = 0.1, max_error: float = 0.5, divider_limit : float = 5):
 
     # Initial parameters. All variables are named after the Si5368 Manual. But for comfortable coding NC1 is
-    # named N1_LS, N2_LS
+    # named N1_LS
 
     f3_step = 1
     f3_min = 2500
